@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🚀 Link Surge 
 Para acessar ao site do projeto clique no link abaixo:
-- [Link para acessar o Projeto](/)
+- [Link para acessar o Projeto](https://hateful-glove.surge.sh/)
 
 ### 🤝 Colaboradores
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
